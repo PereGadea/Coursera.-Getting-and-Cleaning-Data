@@ -12,7 +12,7 @@ The goal is to clean and improve the presentation of data, document the changes 
 + the file "tidy_data.txt" is created in the directory as a result of the script
 
 ### INSTRUCTIONS
-* Download the file from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones in the ~/directory and unzip
+* Download the file from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones in the ~/UCI HAR dataset directory and unzip
 * Get script fromt GitHub repository
 * Open RStudio and run script
 
