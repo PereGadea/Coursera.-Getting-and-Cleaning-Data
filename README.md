@@ -16,5 +16,6 @@ The goal is to clean and improve the presentation of data, document the changes 
 * Get script fromt GitHub repository
 * Open RStudio and run script
 
+Acknowledgment
 
 This data files contain partial processed data and information from the Human Activiy Recognition Using Smartphones Datas, a publication of Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L.Reyes-Ortiz. Human Activity Recognition on Smartphones using a Mulitclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain, Dec 2012
