@@ -1,7 +1,7 @@
 Getting and Cleaning Data
 ===================================
 
-This activity is a part of the Course Project, a proof of "Getting an cleanning data", e-learning course from Coursera and Johns Hopinks Bloomber School of Public Health.
+This activity is a part of the Course Project, a proof of "Getting an cleanning data", e-learning course from Coursera and Johns Hopinks Bloomberg School of Public Health.
 
 The goal is to clean and improve the presentation of data, document the changes and present the results.
 
